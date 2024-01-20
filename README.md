@@ -2,7 +2,7 @@
 
 ## Skill
 <div style="display: flex; align-items: flex-start; align:center">
-  <table>
+  <table align="center>
     <tr>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 75px; height: 75px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;">
