@@ -85,9 +85,9 @@
 </div>
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randomlname&theme=tokyonight" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=tokyonight" />
   </a>
