@@ -84,15 +84,20 @@
   </table>
 </div>
 
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randomlname&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=tokyonight" />
+  </a>
+</div>
+
 ## I am currently working on 
 Building a budget app using React, nodejs, and Postgres database
 
 ## Time i have wasted 😆
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randomlname&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RandomlName&theme=dark&background=000000&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
     
 <!--
