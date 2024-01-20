@@ -39,8 +39,8 @@
         TypeScript
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="65" alt="MongoDB" />
-        MongoDB
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
+        React
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="65" alt="postgres" />
@@ -61,8 +61,8 @@
           Flutter
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="65" alt="react" />
-        React
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="65" alt="MongoDB" />
+        MongoDB
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="65" alt="sass" />
