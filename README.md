@@ -89,7 +89,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randomlname&theme=tokyonight" />
   </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=dark" />
   </a>
 </div>
 
