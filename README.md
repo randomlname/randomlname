@@ -1,7 +1,7 @@
 ### Hello 👋 I am Jeff
 
 A Full-stack Developer with a passion for building web and mobile applications. With a foundation in computer science and hands-on experience in front-end and back-end technologies,
-Currently, I'm delving deeper into cloud services.
+Currently, I'm delving deeper into cloud services to learn how to build scalable distributed systems.
 
 ## Skill
 <div style="display: flex; align-items: flex-start; align:center">
