@@ -84,6 +84,8 @@
   </table>
 </div>
 
+## I am currently working on 
+Building a budget app using react, nodejs and Postgres database
     
 <!--
 **randomlname/randomlname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
