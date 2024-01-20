@@ -84,21 +84,26 @@
   </table>
 </div>
 
-<div>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randomlname&theme=tokyonight" />
-  </a> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=dark" />
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randomlname&theme=tokyonight" />
+    </a> -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=dark" />
+    </a>
+  </div>
 </div>
 
 ## I am currently working on 
 Building a budget app using React, nodejs, and Postgres database
 
 ## Time i have wasted 😆
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RandomlName&theme=dark&background=000000&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
+<div align="center">
+  <div style="display: flex; justify-content: center;>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RandomlName&theme=dark&background=000000&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  </div>
+</div>
     
 <!--
 **randomlname/randomlname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
