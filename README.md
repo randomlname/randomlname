@@ -57,8 +57,8 @@
     </tr>
     <tr>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="65" alt="angular" />
-          Angular
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="65" alt="flutter" />
+          Flutter
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="65" alt="react" />
