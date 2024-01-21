@@ -68,7 +68,7 @@ Currently, I'm delving deeper into cloud services to learn how to build scalable
         MongoDB
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="65" alt="sass" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
         SASS
       </td>
       <td align="center" width="90">
