@@ -46,8 +46,8 @@ Currently, I'm delving deeper into cloud services to learn how to build scalable
         React
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="65" alt="postgres" />
-        Postgres
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="65" alt="PostgreSQL" />
+        PostgreSQL
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="65" alt="HTML" />
