@@ -104,7 +104,7 @@ Building a budget app using React, nodejs, and Postgres database
 ## Time i have wasted 😆
 <div align="center">
   <div style="display: flex; justify-content: center;>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RandomlName&theme=dark&background=000000&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RandomlName&theme=dark&background=000000&hide_border=true alt="GitHub Streak" /></a>
   </div>
 </div>
     
