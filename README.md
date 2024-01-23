@@ -99,7 +99,8 @@ Currently, I'm delving deeper into cloud services to learn how to build scalable
 </div>
 
 ## I am currently working on 
-Building a budget app using React, nodejs, and Postgres database
+Building a budget app using React, nodejs, and Postgres database 
+[link](https://nwabunoronwuanyi.vercel.app/projects/2/Budget-App)
 
 ## Time i have wasted 😆
 <div align="center">
