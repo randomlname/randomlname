@@ -86,7 +86,7 @@ Currently, I'm delving deeper into cloud services to learn how to build scalable
     </tr>
   </table>
 </div>
-
+ 
 <div align="center">
   <div style="display: flex; justify-content: center;">
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats">
