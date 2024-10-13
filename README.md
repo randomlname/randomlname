@@ -87,20 +87,20 @@ Currently, I'm delving deeper into cloud services to learn how to build scalable
   </table>
 </div>
  
-<div align="center">
+<!--<div align="center">
   <div style="display: flex; justify-content: center;">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=randomlname&theme=tokyonight" />
-    </a> -->
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomlname&langs_count=10&layout=compact&theme=dark" />
     </a>
   </div>
 </div>
 
-<!--## I am currently working on 
+## I am currently working on 
 Building a budget app using React, nodejs, and Postgres database 
-[link](https://nwabunoronwuanyi.vercel.app/projects/3/Budget-App) -->
+[link](https://nwabunoronwuanyi.vercel.app/projects/3/Budget-App)
    
 ## Time i have wasted 😆
 <div align="center">
@@ -109,17 +109,4 @@ Building a budget app using React, nodejs, and Postgres database
   </div>
 </div>
     
-<!--
-**randomlname/randomlname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
