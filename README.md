@@ -1,7 +1,6 @@
 ### Hello 👋 I am Jeff
 
-A Full-stack Developer with a passion for building web and mobile applications. With a foundation in computer science and hands-on experience in front-end and back-end technologies,
-Currently, I'm delving deeper into cloud services to learn how to build scalable distributed systems.
+Software developer with a strong focus on database management and full-stack development. I have experience working with cloud platforms, developing efficient and scalable web applications, and integrating both front-end and back-end systems. My skill set includes working with REST APIs, PHP, SQL, and JavaScript, alongside hands-on experience with modern frameworks and cloud services.
 
 ## Skill
 <div style="display: flex; align-items: flex-start; align:center">
